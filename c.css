@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('download.jpg'); 
+    /* background-color: #FCDFFF; */
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.contact-info {
+    background-color:#E6E6FA; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: white;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+.fa-github
+{
+	font-size: 35px;
+	margin-top:5px;
+    color:black;
+}
+.fa-google
+{
+	font-size: 35px;
+	color:  rgb(148, 15, 15);
+	margin-left:2%;
+	margin-top:5px;
+}
+.fa-linkedin
+{
+    font-size: 35px; 
+    color: #0077b5;
+	margin-left:2%;
+	margin-top:5px;
+}
